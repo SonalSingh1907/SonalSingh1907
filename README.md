@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sonal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/baby-koding-baby-baby-boy-code-coding-gif-24678193">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/fq-1gwJhSf8AAAAd/baby-koding-baby.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal80&label=Profile%20views&color=0e75b6&style=flat" alt="harshal80" /> </p>
