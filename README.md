@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Harshal</h1>
+<h1 align="center">Hi 👋, I'm Sonal</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
@@ -8,9 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **BCA**
+- 🌱 I have pursued **BCA**
+  
+- Currently I am working professional at **Cognizant**
 
-- 📫 How to reach me **hdpatil09@gmail.com**
+- 📫 How to reach me **sonalkumari1907@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
